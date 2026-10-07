@@ -1,0 +1,22 @@
+{
+  "registrations": [
+    {
+      "name": "Varshini",
+      "email": "varsh25@gmail.com",
+      "phone": "8674590243",
+      "college": "college",
+      "event": "Badminton Championship",
+      "category": "Sports",
+      "id": 1
+    },
+    {
+      "name": "varsha",
+      "email": "varsha2005@gmail.com",
+      "phone": "7658942311",
+      "college": "College",
+      "event": "Dance Competition",
+      "category": "Cultural",
+      "id": 2
+    }
+  ]
+}
